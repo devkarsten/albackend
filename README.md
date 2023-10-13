@@ -1,6 +1,9 @@
 # About AltLoader
 
 AltLoader is a comprehensive solution for managing and controlling Alt Accounts, particularly for AFK gaming in Minecraft. Our open-source repository offers a peek into the inner workings of our powerful panel. While the primary purpose is to serve our customers, we also welcome the curious and the contributors to explore the code that powers this innovative tool for the Minecraft community.
+> [!IMPORTANT]
+> We started working on this project since 13 Oct 2023.
+> This means that this repo will be updated regularly, so the osc might be unstable at some times!
 
 
 ## Console Client for MCC Integration
@@ -31,7 +34,7 @@ We provide full control on the account trough our panel.
 
 Discover our repository where we've customized Pterodactyl and Docker to improve integration. Our enhancements are designed to optimize these tools for efficient server resource management.
 > [!NOTE]
-> Info: please check the sources for pterodactyl / docker below.
+> Please check the sources for pterodactyl / docker below.
 
 - Docker's official [GitHub repo](https://github.com/jenkinsci/docker)
 - Pterodactyl's official panel [GitHub osc repo](https://github.com/pterodactyl/panel)
