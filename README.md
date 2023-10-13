@@ -4,4 +4,5 @@ AltLoader is a comprehensive solution for managing and controlling Alt Accounts,
 
 ## Customized Console Client for MCC Integration
 
-Our repository houses a customized console client, tailored for seamless integration within the Pterodactyl panel and Docker environment. Leveraging MCC's open-source code, we've optimized this console client to offer the best user experience. Explore our enhancements and join us in enhancing your server management capabilities.
+Our repository houses a customized console client, tailored for seamless integration within the Pterodactyl panel and Docker environment. Leveraging MCC's open-source code, we've optimized this console client to offer the best user experience.
+> https://github.com/MCCTeam/Minecraft-Console-Client
