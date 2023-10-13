@@ -28,9 +28,13 @@ timeout 1
 - This simple line starts our console client with the rented alt, log-in and join your server you want to AFK on.
 > This can be fully customized!
 
-#
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## In-game command support
 
@@ -41,10 +45,13 @@ We provide full control on the account trough our panel.
 
 ![MCCscreenshot](https://github.com/devkarsten/albackend/blob/main/Screenshot%202023-10-13%20185021.png)
 
-
-#
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Pterodactyl and Docker Integration
 
