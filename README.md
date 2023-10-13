@@ -5,16 +5,10 @@ AltLoader is a comprehensive solution for managing and controlling Alt Accounts,
 > We started working on this project since 13 Oct 2023.
 > This means that this repo will be updated regularly, so the osc might be unstable at some times!
 
-
-
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 ## Console Client for MCC Integration
 
