@@ -6,6 +6,9 @@ AltLoader is a comprehensive solution for managing and controlling Alt Accounts,
 > This means that this repo will be updated regularly, so the osc might be unstable at some times!
 
 
+
+#
+
 ## Console Client for MCC Integration
 
 Our repository houses a customized console client, tailored for seamless integration within the Pterodactyl panel and Docker environment. Leveraging MCC's open-source code, we've optimized this console client to offer the best user experience.
