@@ -15,10 +15,8 @@ timeout 1
 - This simple line starts our console client with the rented alt, log-in and join your server you want to AFK on.
 > This can be fully customized!
 
-- The client startup happens automatically once an alt is purchased (rented in our case).
 
-
-### In-game command support
+## In-game command support
 
 We provide full control on the account trough our panel. 
 > You can control what servers to join, what version and prompt all in-game commands!
