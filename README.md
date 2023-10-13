@@ -7,8 +7,6 @@ AltLoader is a comprehensive solution for managing and controlling Alt Accounts,
 
 <br>
 <br>
-<br>
-<br>
 
 ## Console Client for MCC Integration
 
@@ -24,11 +22,6 @@ timeout 1
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## In-game command support
 
@@ -39,11 +32,7 @@ We provide full control on the account trough our panel.
 
 ![MCCscreenshot](https://github.com/devkarsten/albackend/blob/main/Screenshot%202023-10-13%20185021.png)
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
