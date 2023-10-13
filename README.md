@@ -30,6 +30,7 @@ We provide full control on the account trough our panel.
 ## Pterodactyl and Docker Integration
 
 Discover our repository where we've customized Pterodactyl and Docker to improve integration. Our enhancements are designed to optimize these tools for efficient server resource management.
+> [!NOTE]
 > Info: please check the sources for pterodactyl / docker below.
 
 - Docker's official [GitHub repo](https://github.com/jenkinsci/docker)
