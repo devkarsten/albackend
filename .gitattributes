@@ -1,2 +1,2 @@
 *.html linguist-detectable=true
-.ini/** linguist-vendored
+*.rb linguist-language=Java
