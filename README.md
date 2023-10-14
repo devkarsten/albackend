@@ -38,7 +38,7 @@ We provide full control on the account trough our panel.
 
 
 
-![MCCscreenshot](https://github.com/devkarsten/albackend/blob/main/.gitmisc/Screenshot%202023-10-13%20185021.png)
+<img src="https://gratospo.sirv.com/altloader/Screenshot%202023-10-13%20185021.png" width="426" height="185" alt="">
 
 
 <br>
