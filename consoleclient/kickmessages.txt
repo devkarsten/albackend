@@ -1,0 +1,15 @@
+Connection has been lost
+Server is restarting 
+Server is full
+ Too Many people
+Server Restarting.
+You are currently connected to this server.
+Disconnected.
+Disconnected by Server : Kicked for flying (or related)
+Kicked for flying (or related)
+You are not whitelisted on this server!
+Error occurred while contacting login servers, are they down?
+A user with this name is already online
+Flying is not enabled on this server
+Connection has been lost.
+Disconnected by Server : Flying is not enabled on this server
