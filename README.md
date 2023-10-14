@@ -1,9 +1,7 @@
-- Lead developer / Back-end
+[karstendev](https://github.com/devkarsten)  ```Lead developer / Back-end```
 
-[karstendev](https://github.com/devkarsten)
-- Contributor / Front-end
+[Miracle](https://github.com/miraclesven) ```Contributor / Front-end```
 
-[Miracle](https://github.com/miraclesven)
 <br>
 
 # About AltLoader
