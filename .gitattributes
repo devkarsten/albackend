@@ -1,4 +1,2 @@
 *.html linguist-detectable=true
-*.java linguist-detectable=false
-*.javascript linguist-detectable=false
-*.python linguist-detectable=false
+.ini/** linguist-vendored
