@@ -1,4 +1,4 @@
-[karstendev](https://github.com/devkarsten)  ```Lead developer / Back-end```
+[karstendev](https://github.com/devkarsten)  ```Lead Developer / Back-end```
 
 [Miracle](https://github.com/miraclesven) ```Contributor / Front-end```
 
