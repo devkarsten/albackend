@@ -1,3 +1,2 @@
 *.html linguist-detectable=true
 *.ini linguist-language=Java
-*.exe linguist-language=C#
