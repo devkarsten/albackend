@@ -38,7 +38,7 @@ We provide full control on the account trough our panel.
 
 
 
-![MCCscreenshot](https://github.com/devkarsten/albackend/blob/main/misc/Screenshot%202023-10-13%20185021.png)
+![MCCscreenshot](https://github.com/devkarsten/albackend/blob/main/.gitmisc/Screenshot%202023-10-13%20185021.png)
 
 
 <br>
