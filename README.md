@@ -30,7 +30,7 @@
    - Test user interaction and functionality.
 
 4. 🔜 **Server API (1-2 weeks)**
-   - Create an API on the Minecraft server VM to receive commands.
+   - Create an API on the server VM to receive commands.
    - Establish WebSocket or REST API communication for command execution.
 
 5. 🔜 **Access Control (1 week)**
