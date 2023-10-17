@@ -21,7 +21,7 @@
 
 2. 🔜 **Security and Authentication (1-2 weeks)**
    - Implement user authentication for the web panel.
-   - Ensure secure communication with the Minecraft server VM.
+   - Ensure secure communication with the server VM.
    - Set up SSL/TLS for secure data transmission.
 
 3. 🔜 **Web Panel Development (2-3 weeks)**
